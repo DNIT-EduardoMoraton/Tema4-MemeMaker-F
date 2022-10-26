@@ -60,6 +60,7 @@
             <Setter Property="HorizontalAlignment"
                     Value="Left"></Setter>
         </Style>
+        <local:CheckBoxCheckedToBorderConverter x:Key="BorderThicknessConv"></local:CheckBoxCheckedToBorderConverter>
     </Window.Resources>
 
     <ScrollViewer HorizontalScrollBarVisibility="Auto"
@@ -121,13 +122,19 @@
             </Grid>
             <Border Background="#FFF3D2D2"
                     BorderBrush="Black"
-                    Margin="10">
+                    BorderThickness="{Binding ElementName=bordeCheckBox, Path=IsChecked, Converter={StaticResource BorderThicknessConv}}"
+                    Margin="10"
+                    Width="{Binding ElementName=anchoSlider, Path=Value}"
+                    Height="{Binding ElementName=altoSlider, Path=Value}"
+                    >
                 <Grid>
-                    <Image Stretch="Fill" />
+                    <Image Stretch="Fill" Source="{Binding ElementName=imagenTextBox, Path=Text}"/>
                     <TextBlock Style="{StaticResource textoMeme}"
-                               VerticalAlignment="Top"></TextBlock>
+                               VerticalAlignment="Top"
+                               Text="{Binding ElementName=superiorTextBox, Path=Text}"></TextBlock>
                     <TextBlock Style="{StaticResource textoMeme}"
-                               VerticalAlignment="Bottom"></TextBlock>
+                               VerticalAlignment="Bottom"
+                               Text="{Binding ElementName=inferiorTextBox, Path=Text}"></TextBlock>
                 </Grid>
             </Border>
         </StackPanel>

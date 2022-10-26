@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\bin\Debug\MemeMaker.exe.config
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\bin\Debug\MemeMaker.exe
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\bin\Debug\MemeMaker.pdb
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\MemeMaker.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\App.g.cs
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\MemeMaker_MarkupCompile.cache
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\MemeMaker_MarkupCompile.lref
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\MainWindow.baml
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\MemeMaker.g.resources
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\MemeMaker.Properties.Resources.resources
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\MemeMaker.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\MemeMaker.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\MemeMaker.exe
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\MemeMaker.pdb
+C:\Users\alumno\Desktop\2DAM\INTERFACES REP\Tema4-MemeMaker-F\MemeMaker\obj\Debug\GeneratedInternalTypeHelper.g.cs
